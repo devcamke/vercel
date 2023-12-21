@@ -1,5 +1,11 @@
 # @vercel/node
 
+## 3.0.15
+
+### Patch Changes
+
+- Await waitUntil promises to resolve before exiting ([#10915](https://github.com/vercel/vercel/pull/10915))
+
 ## 3.0.14
 
 ### Patch Changes

@@ -1,5 +1,13 @@
 # vercel
 
+## 33.0.2
+
+### Patch Changes
+
+- Updated dependencies [[`77585013d`](https://github.com/vercel/vercel/commit/77585013dec5fc406b8b7ea00918e49fdb8f10ec), [`c536a74bc`](https://github.com/vercel/vercel/commit/c536a74bc9e7188a87b292615fa88d6fc506b105)]:
+  - @vercel/go@3.0.5
+  - @vercel/node@3.0.15
+
 ## 33.0.1
 
 ### Patch Changes
